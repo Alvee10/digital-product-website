@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.test{
+    color: blue;
+    cursor: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlMjFfM2RfaWxsdXN0cmF0aW9uX29mX3NhZF9lbW9qaV9pY29uX21hdHRlX3RleHR1cl8wNjYwNzUyOS05NTAzLTRhZmEtOGE0OS02NGY4M2Y1ODZlMjIuanBn.jpg"), auto;
+    
+}
